@@ -5,6 +5,6 @@ published: true
 ---
 # joe mama
 
-![_step1.yml]({{ site.baseurl }}/images/step1.gif)
+![_config.yml]({{ site.baseurl }}/images/pug.jpg)
 
 ## Congrats
