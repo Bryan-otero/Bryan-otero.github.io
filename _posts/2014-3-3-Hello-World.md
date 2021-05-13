@@ -5,7 +5,6 @@ published: true
 ---
 # joe mama
 
-![_config.yml]({{ site.baseurl }}/images/.png)
-
+![_config.yml]({{ site.baseurl }}/images/404.png)
 
 ## Congrats
