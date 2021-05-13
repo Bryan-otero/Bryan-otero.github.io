@@ -5,6 +5,6 @@ published: true
 ---
 # joe mama
 
-![Pug.yml]({{ site.baseurl }}/images/Pug.jpg)
+![_pug.yml]({{ site.baseurl }}/https://i1.wp.com/nypost.com/wp-content/uploads/sites/2/2020/04/pugs-coronavirus.jpg?quality=80&strip=all&ssl=1)
 
 ## Congrats
