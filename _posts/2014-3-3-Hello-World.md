@@ -76,11 +76,13 @@ To assign a value to each of the Story variables such as Title the programmer mu
 This process must be done to all Story variables in order to be exported which are:
 
 TITLE
+
 AUTH
+
 LANG
+
 BODY
-SETTING
-CHARACTER
+
 ID
 
 After all of the Story variables are assigned values, then the programmer is able to export the book by simply typing EXPORT on the code line.
