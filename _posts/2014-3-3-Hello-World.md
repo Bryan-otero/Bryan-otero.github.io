@@ -11,7 +11,7 @@ COMP4036 Class Project
 Team members
 
 Zuleinis Ramos: zuleinis.ramos@upr.edu 
-Github: 
+Github: https://github.com/zuleinis
 
 Bryan Otero: bryan.otero@upr.edu
 Github: https://github.com/Bryan-otero
@@ -19,13 +19,13 @@ Github: https://github.com/Bryan-otero
 Javier Flores: javier.flores6@upr.edu
 Github: https://github.com/JaviFlowers
 
-Motivation
+# Motivation
 
   Searching creativity, finding inspiration and using your imagination for making art is hard enough, and translating it into works of technology makes it even harder. The Storytelling Language will be created to solve this problem and to ease the path to connect art and technology for programmers in the fields of storytelling. The language will provide the tools that storytellers need to serve as a vessel for the creative process while reducing the need to focus on more analytical and structural aspects. For this, the language will provide a structure to automatically piece together a format that most suits the programmer’s work. Additionally, the language will provide all the help the storyteller needs to turn the story into data and storing it. This language is suited for programmers in the field of game design and film.
   
 Our reasoning behind making this storytelling programming language is because we are all interested in the same working fields, that being game and/or web development. For this project we chose as our main programming language Python. We are students from the computer science department, and in UPRM the main language taught to us is C++. After digging for information we agreed upon using Python 3 as our main language not only because It is arguably easier to create a language using it but because it is a completely new language for us and it is very popular in the industry so we would like to learn more about it even if its not directly taught to us at the moment.
 
-Example programs
+# Example programs
 
 - Interactive stories (games, books.. “gamebooks”):
   Allows the user to participate in the story by making choices that impact the path. The programmer will be able to write in choices for this user and scenarios in the story. The language will provide this and will organize the scenarios as determined by the programmer.
@@ -34,7 +34,7 @@ Example programs
 - Story formatter:
   Generates a file with a formatted story based on it’s type. The story types can be but are not limited to game story scripts, screenplays, short stories and novels.
   
-Language Features
+# Language Features
 
 - Variables
 - Functions
@@ -43,7 +43,7 @@ Language Features
 - Story metadata 
 - Document formatting (TXT, HTML, PDF)
 
-Implementation requirements and tools
+# Implementation requirements and tools
 
 - Python 3
   is an interpreted, object-oriented, high-level programming language with dynamic semantics.
@@ -54,7 +54,7 @@ Implementation requirements and tools
 - Ebooklib
   is a Python library for managing EPUB2/EPUB3 and Kindle files. It’s capable of reading and writing EPUB files programmatically.
 
-How to install requirements and tools 
+# How to install requirements and tools 
 
 - Sly
   1. Open the CMD Terminal and copy/type in pip install sly (requires the use of Python 3.6 or greater) and press enter as seen via the link https://pypi.org/project/sly/
@@ -69,7 +69,7 @@ How to install requirements and tools
   3. After EbookLib is installed, to import into the code copy/type
     from ebooklib import epub
 
-How to use 
+# How to use 
 
 To assign a value to each of the Story variables such as Title the programmer must write The name of the variable followed by "=" and finally the value. An example can be TITLE = "The Iron Giant".
 
